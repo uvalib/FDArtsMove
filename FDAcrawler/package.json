@@ -1,0 +1,18 @@
+{
+  "name": "fdacrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "fetch-cookie": "^0.11.0",
+    "jsdom": "^16.5.3",
+    "node-fetch": "^2.6.1",
+    "node-wget-promise": "^0.1.6"
+  }
+}
